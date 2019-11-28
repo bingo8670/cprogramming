@@ -1,5 +1,6 @@
 https://www.runoob.com/cprogramming/c-tutorial.html
 学习笔记
+ex56-ex65 都是用graphics.h画图，图形库太过古老，需要时候用其他的，例如OpenGL ；
 
 编译 & 执行 C 程序
 接下来让我们看看如何把源代码保存在一个文件中，以及如何编译并运行它。下面是简单的步骤：
